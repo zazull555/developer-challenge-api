@@ -9,7 +9,7 @@
 
 ### What is required to complete the challenge
 
-You are required to create a javascript blog application using a modern javascript framework that runs in the browser and interfaces with the provided REST API. The application should have a home page that shows all blog posts, sorted by publish date. Users should be able to view individual posts in aseparate page. Within that page they should be able to read comments and add a new comment.
+You are required to create a javascript blog application using a modern javascript framework that runs in the browser and interfaces with the provided REST API. The application should have a home page that shows all blog posts, sorted by publish date. Users should be able to view individual posts in a separate page. Within that page they should be able to read comments and add a new comment.
 
 #### Business Requirements:
 
