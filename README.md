@@ -23,6 +23,7 @@ You are required to create a javascript blog application using a modern javascri
 * Two or more distinct components demonstrating component hierarchy
 * At least one service that interfaces with the REST API
 * At least one unit test per component
+* The use of a CSS pre-processing tool like SCSS/LESS
 
 > This starter kit provides the basic API you will need to complete your coding challenge. See [Using the REST API](#using-the-rest-api) for more information.
 
