@@ -57,4 +57,4 @@ A REST API is provided with seed data for blog posts and comments.  The REST API
 
 If you wish to go a step further you may host the final product for demo purposes, eg. with AWS S3. However, this is not required for completion of the code challenge.
 
-**Thank you, and have enjoy the challenge!**
+**Thank you, and enjoy the challenge!**
