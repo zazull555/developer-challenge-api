@@ -1,4 +1,4 @@
-# LetsGetChecked front end challenge kit
+# LetsGetChecked front end challenge REST API
 > Starter REST API for LetsGetChecked front end coding challenge
 
 ## Getting started
