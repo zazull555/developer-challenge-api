@@ -27,6 +27,8 @@ Create an android application which satisfies the following requirements:
 * The use of a Web Service that interfaces with the REST API
 * At least one unit test per component
 
+*OR*
+
 #### Frontend Developer - Technical requirements:
 
 Create a javascript application using a modern javascript framework which runs in the browser and satisifes the following requirements:
