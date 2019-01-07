@@ -53,7 +53,7 @@ Create an iOS application which satisfies the following requirements:
 * Built with React Native
 * Multiple components which show the correct usage of MVC pattern
 * The use of a NSCoding for persisting data
-* The use of a client networking mdel that interfaces with the REST API
+* The use of a client networking model that interfaces with the REST API
 * At least three unit tests
 
 ## API
