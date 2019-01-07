@@ -38,10 +38,23 @@ Create a javascript application using a modern javascript framework which runs i
 
 Create an android application which satisfies the following requirements:
 
+* Built with React Native
 * Multiple components which show the correct usage of Fragments and Activities
 * The use of a ViewModel for persisting data
 * The use of a Web Service that interfaces with the REST API
 * At least one unit test per component
+
+*OR*
+
+#### iOS Developer
+
+Create an iOS application which satisfies the following requirements:
+
+* Built with React Native
+* Multiple components which show the correct usage of MVC pattern
+* The use of a NSCoding for persisting data
+* The use of a client networking mdel that interfaces with the REST API
+* At least three unit tests
 
 ## API
 
