@@ -7,18 +7,34 @@
 
 * [Node.js](https://nodejs.org/en/) v6 or higher
 
-### What is required to complete the challenge
+## What is required to complete the challenge
 
 You are required to create a blog application that interfaces with the provided REST API. The application should have a home page that shows all blog posts, sorted by publish date. Users should be able to view individual posts in a separate page. Within that page they should be able to read comments and add a new comment.
 
-#### Business Requirements:
+### Business Requirements:
 
 * Blog feed should list all posts and associated title, author, date and description, sorted by publish date from newest first.
 * Users can view individual blog posts in a separate page.
 * Users can view comments for a blog post.
 * Users can add a comment to a blog post.
 
-#### Android Developer - Technical Requirements:
+### Technical Requirements
+
+Depending the role please complete one of the following
+
+#### Frontend Developer
+
+Create a javascript application using a modern javascript framework which runs in the browser and satisifes the following requirements:
+
+* Two or more distinct components demonstrating component hierarchy
+* At least one service that interfaces with the REST API
+* At least one unit test per component
+* The use of a CSS pre-processing tool like SCSS/LESS
+* Consideration of semantic markup, SEO and accessibility
+
+*OR*
+
+#### Android Developer
 
 Create an android application which satisfies the following requirements:
 
@@ -27,16 +43,7 @@ Create an android application which satisfies the following requirements:
 * The use of a Web Service that interfaces with the REST API
 * At least one unit test per component
 
-*OR*
-
-#### Frontend Developer - Technical requirements:
-
-Create a javascript application using a modern javascript framework which runs in the browser and satisifes the following requirements:
-
-* Two or more distinct components demonstrating component hierarchy
-* At least one service that interfaces with the REST API
-* At least one unit test per component
-* The use of a CSS pre-processing tool like SCSS/LESS
+## API
 
 > This starter kit provides the basic API you will need to complete your coding challenge. See [Using the REST API](#using-the-rest-api) for more information.
 
