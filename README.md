@@ -50,9 +50,8 @@ Create an android application which satisfies the following requirements:
 
 Create an iOS application which satisfies the following requirements:
 
-* Built with React Native
+* Built with Swift
 * Multiple components which show the correct usage of MVC pattern
-* The use of a NSCoding for persisting data
 * The use of a client networking model that interfaces with the REST API
 * At least three unit tests
 
