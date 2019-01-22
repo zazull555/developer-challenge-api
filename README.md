@@ -11,7 +11,10 @@
 
 You are required to create a blog application that interfaces with the provided REST API. The application should have a home page that shows all blog posts, sorted by publish date. Users should be able to view individual posts in a separate page. Within that page they should be able to read comments and add a new comment.
 
+
 ### Business Requirements:
+
+* We are looking for at least all of the requirements to be submitted.  This is oyur chance to shine so feel free to add functionality or design to impress*
 
 * Blog feed should list all posts and associated title, author, date and description, sorted by publish date from newest first.
 * Users can view individual blog posts in a separate page.
