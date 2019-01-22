@@ -14,7 +14,7 @@ You are required to create a blog application that interfaces with the provided 
 
 ### Business Requirements:
 
-* We are looking for at least all of the requirements to be submitted.  This is oyur chance to shine so feel free to add functionality or design to impress*
+_We are looking for at least all of the requirements to be submitted.  This is oyur chance to shine so feel free to add functionality or design to impress_
 
 * Blog feed should list all posts and associated title, author, date and description, sorted by publish date from newest first.
 * Users can view individual blog posts in a separate page.
