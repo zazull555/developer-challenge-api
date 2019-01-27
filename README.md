@@ -41,7 +41,7 @@ Create a javascript application using a modern javascript framework which runs i
 
 Create an android application which satisfies the following requirements:
 
-* Built with React Native
+* Built with Kotlin
 * Multiple components which show the correct usage of Fragments and Activities
 * The use of a ViewModel for persisting data
 * The use of a Web Service that interfaces with the REST API
