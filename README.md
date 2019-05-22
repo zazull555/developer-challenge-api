@@ -27,7 +27,7 @@ Depending the role please complete one of the following
 
 #### Frontend Developer
 
-Create a javascript application using a modern javascript framework which runs in the browser and satisifes the following requirements:
+Create an Angular 2+ application which runs in the browser and satisifes the following requirements:
 
 * Two or more distinct components demonstrating component hierarchy
 * At least one service that interfaces with the REST API
