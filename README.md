@@ -27,7 +27,7 @@ Depending the role please complete one of the following
 
 #### Frontend Developer
 
-Create a web application which runs in the browser and satisifes the following requirements:
+Create a web application which runs in the browser and satisfies the following requirements:
 
 * Connects with the API using js / jquery
 * The use of Bootstrap 3/4 for page elements
@@ -38,7 +38,7 @@ Create a web application which runs in the browser and satisifes the following r
 
 #### Angular Developer
 
-Create an Angular 2+ application which runs in the browser and satisifes the following requirements:
+Create an Angular 2+ application which runs in the browser and satisfies the following requirements:
 
 * Two or more distinct components demonstrating component hierarchy
 * At least one service that interfaces with the REST API
