@@ -14,12 +14,13 @@ You are required to create a blog application that interfaces with the provided 
 
 ### Business Requirements:
 
-_We are looking for at least all of the requirements to be submitted.  This is your chance to impress us so feel free to add functionality or design_
+_We are looking for **all of the requirements to be submitted**.  This is your chance to impress us so feel free to add additional functionality or design_
 
-* Blog feed should list all posts and associated title, author, date and description, sorted by publish date from newest first.
-* Users can view individual blog posts in a separate page.
-* Users can view comments for a blog post.
-* Users can add a comment to a blog post.
+* Blog feed should list all posts and associated title, author, date and description, sorted by publish date from newest first
+* Users can view individual blog posts in a separate page
+* Users can view comments for a blog post
+* Users can add a comment to a blog post
+* Form validation
 
 ### Technical Requirements
 
@@ -32,7 +33,8 @@ Create a web application which runs in the browser and satisfies the following r
 * Connects with the API using js / jquery
 * The use of Bootstrap 3/4 for page elements
 * The use of a CSS pre-processing tool like SCSS/LESS
-* Consideration of semantic markup, SEO and accessibility
+* Semantic, accessible markup
+* SEO friendly urls, titles, metadata
 
 *OR*
 
