@@ -83,15 +83,15 @@ This will install all dependencies (listed in `package.json`) necessary to get t
 
 #### 2. Run `npm run api`
 
-`npm run api` will start [json-server](https://github.com/typicode/json-server) to provide a stubbed out REST API through `localhost:9001`.
+`npm run api` will start [json-server](https://github.com/typicode/json-server) to provide a stubbed out REST API through `localhost:9000`.
 
 ## Using the REST API
 
 > Note: Ensure that you've started the API server with `npm run api`.
 
-A REST API is provided with seed data for blog posts and comments.  The REST API returns and accepts JSON.  Changes made to the "database" will persist as long as the API is running on `localhost:9001`.
+A REST API is provided with seed data for blog posts and comments.  The REST API returns and accepts JSON.  Changes made to the "database" will persist as long as the API is running on `localhost:9000`.
 
-**Base path:** http://localhost:9001
+**Base path:** http://localhost:9000
 
 **GET** `/posts` *List all blog posts*<br>
 **GET** `/posts/{id}` *View single blog post*<br>
