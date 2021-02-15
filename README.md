@@ -108,13 +108,7 @@ This will install all dependencies (listed in `package.json`) necessary to get t
 
 `npm run api` will start [json-server](https://github.com/typicode/json-server) to provide a stubbed out REST API through `localhost:9000`.
 
----
-
-**NOTE**
-
-On occasion you may find the port 9000 is already in use. You can change this in the package.json.
-
----
+> Note: On occasion you may find the port 9000 is already in use. You can change this in the package.json.
 
 ## Using the REST API
 
