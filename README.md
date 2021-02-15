@@ -52,7 +52,7 @@ _OR_
 
 #### React Developer
 
-Create an react application which runs in the browser and satisfies the following [requirements](#####requirements):
+Create an react application which runs in the browser and satisfies the following [requirements](#requirements):
 
 You are more than welcome to use the following starting points.
 
@@ -64,7 +64,7 @@ You are more than welcome to use the following starting points.
 
 - Two or more distinct components demonstrating component hierarchy
 - At least one custom hook to communicate with the REST API
-  - Take a look at the API section [API Section](##API)
+  - Take a look at the API section [API Section](#API)
 - At least one unit test per component
   - you can use [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - The use of a CSS pre-processing tool
