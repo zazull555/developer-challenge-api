@@ -1,0 +1,30 @@
+<div class="add-comment">
+  <form [formGroup]="commentDataForm">
+    <div *ngIf="!creation" class="row">Comment Id: {{ commentId }}</div>
+    <div class="row">
+      <label>User:</label>
+      <input
+        required
+        formControlName="user"
+        type="text"
+        placeholder="insert name"
+      />
+    </div>
+
+    <div class="row">
+      <label>Comment:</label>
+      <input
+        required
+        formControlName="content"
+        type="text"
+        placeholder="insert comment"
+      />
+    </div>
+    <div class="btn-container">
+      <button class="btn primary" (click)="back()">Back</button>
+      <button class="btn primary" (click)="addComment()">
+        {{ creation ? "Add" : "Update" }}
+      </button>
+    </div>
+  </form>
+</div>

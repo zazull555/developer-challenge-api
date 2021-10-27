@@ -1,0 +1,16 @@
+<div class="comment-details" *ngFor="let comment of commentList">
+  <div class="comment-header">
+    <h4>{{ comment.user }}</h4>
+    <h5>{{ comment.date }}</h5>
+  </div>
+  <div class="comment-content">
+    <p>{{ comment.content }}</p>
+    <button
+      class="btn primary"
+      (click)="updateComment(comment.id)"
+      class="btn primary"
+    >
+      Edit
+    </button>
+  </div>
+</div>

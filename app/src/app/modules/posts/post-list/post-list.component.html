@@ -1,0 +1,29 @@
+<div style="height: 100%; position: relative">
+  <div
+    style="background: silver; height: 100%; width: 100%; border-radius: 2.5px"
+    *ngFor="let post of postList"
+  >
+    <div
+      style="
+        height: 100%;
+        padding: 10px;
+        margin: 5px;
+        display: block;
+        border: 1px;
+      "
+    >
+      <div class="post-header">
+        <h3>{{ post.title }}</h3>
+        <a [routerLink]="['/post-detail', post.id]">Show more</a>
+      </div>
+      <hr />
+      <div class="post-body">
+        <h4>{{ post.description }}</h4>
+        <div style="display: flex; justify-content: space-between; width: 100%">
+          <p>{{ post.author }}</p>
+          <p>{{ post.publish_date }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

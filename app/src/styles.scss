@@ -1,0 +1,52 @@
+/* You can add global styles to this file, and also import other style files */
+html,
+body {
+  background: #eef2f7;
+  margin: 0px;
+}
+post-list {
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+  border-radius: 2.5px;
+  background: rgb(243, 238, 238);
+  opacity: 0.75;
+}
+
+post-detail {
+  height: 100%;
+  width: 100%;
+  padding: 10px;
+  border-radius: 2.5px;
+  box-shadow: 0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048), 0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072), 0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12);
+  background: white;
+}
+comment-list {
+  height: 100%;
+  width: 100%;
+}
+comment-post {
+  width: 100%;
+  height: 100%;
+}
+
+.btn {
+  border: none;
+  border-radius: 5px;
+  padding: 7.5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 2.5px;
+}
+.btn:hover {
+  cursor: pointer;
+}
+.primary {
+  background-color: #1976d2;
+  color: white;
+}

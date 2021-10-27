@@ -1,0 +1,22 @@
+.comment-details {
+  padding: 5px;
+  width: 100%;
+  display: block;
+
+  .comment-header {
+    display: inline-flex;
+    width: 80%;
+    margin: auto;
+    padding: 2.5px 2.5px 2.5px 85px;
+    justify-content: space-between;
+  }
+  .comment-content {
+    width: 80%;
+    margin: auto;
+    padding: 15px;
+    border: 1px solid rgb(173, 169, 169);
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+  }
+}

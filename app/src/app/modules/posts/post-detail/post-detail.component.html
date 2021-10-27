@@ -1,0 +1,20 @@
+<div style="height: 100%; position: relative">
+  <div class="post-container">
+    <div class="post-header">
+      <h3>{{ currentPost.description }}</h3>
+      <span>{{ currentPost.publish_date }}</span>
+    </div>
+    <div class="post-container">
+      <p [innerHtml]="currentPost.content"></p>
+    </div>
+    <div class="post-footer">
+      <p>{{ currentPost.author }}</p>
+    </div>
+  </div>
+  <hr />
+  <div class="comment-container">
+    <comment-list [postCode]="id"></comment-list>
+    <hr />
+    <comment-post [creation]="true" [id]="id"></comment-post>
+  </div>
+</div>
